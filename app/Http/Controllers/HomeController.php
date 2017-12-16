@@ -13,4 +13,6 @@ class HomeController extends Controller
 	function index($id){
 		return "user".$id;
 	}
+
+
 }
